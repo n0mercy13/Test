@@ -7,6 +7,7 @@ namespace Test{
 		public Main(string[] args){
 
 			Console.WriteLine("Hello, Andrei!");
+			Console.ReadLine();
 
 		}
 	}
